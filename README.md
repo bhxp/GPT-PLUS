@@ -30,9 +30,9 @@ bhop License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of GPT+ (the "Work"), to use, promote, and distribute verbatim copies of the Work for non-commercial purposes only, provided that bhop is credited as the original creator.
 
-Any modification, redistribution, or commercial use of the Work requires prior written permission from bhop.
+Any modification, redistribution, or commercial use of GPT+ requires prior written permission from bhop.
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL BHOP BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+GPT+ IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL BHOP BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH GPT+ OR THE USE OR OTHER DEALINGS IN GPT+.
 
 
 ![End](https://i.imgur.com/zaHs8vr.png)
