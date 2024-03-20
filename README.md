@@ -26,7 +26,7 @@ Use "/help" within the chat for a list of commands.
 
 ## License
 
-bhop License
+GPT+ License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of GPT+ (the "Work"), to use, promote, and distribute verbatim copies of GPT+ for non-commercial purposes only, provided that bhop is credited as the original creator.
 
